@@ -10,13 +10,13 @@ function App() {
       <Box id="signInCard" color='primary'>
         <p>Sign Up</p>
         <hr></hr>
-        <TextField label="Enter a username" />
+        <TextField label="Enter a username..." />
         <br></br>
         <br></br>
-        <TextField label="Enter a password" />
+        <TextField label="Enter a password..." />
         <br></br>
         <br></br>
-        <TextField label="Enter your email" />
+        <TextField label="Enter your email..." />
         <br></br>
         <br></br>
         <Button variant='contained' color='primary'>
